@@ -9,7 +9,7 @@
 - Gym
 
 ### Tech Stack
-##### For different languages ​​I worked with the following stacks
+##### For different projects ​​I worked with the following stacks
 #### Java
 ```
 Spring Boot
